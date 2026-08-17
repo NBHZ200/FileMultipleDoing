@@ -8,6 +8,8 @@ This program is designed for card insertion players
 
 代码里面有注释。
 
+由于存在移动文件、打开explorer.exe（资源管理器）等操作，杀毒软件可能会报毒，但本软件没有病毒。源码都在，你可以自己看。
+
 
 
 Batch operation of files, batch renaming (Mainly adding and deleting serial numbers) and batch sequential movement, supporting custom C# code. For card inserting players.
@@ -16,3 +18,5 @@ There need be a lot of code written by others, which I modify or directly use to
 It's not surprising if there's any code you've shared before.
 
 There are comments in the code.
+
+Due to operations such as moving files and opening explorer.exe, antivirus software may report viruses, but this software does not have any viruses. The source code is all here, you can read it yourself.
