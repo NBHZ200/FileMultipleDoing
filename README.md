@@ -3,6 +3,10 @@
 This program is designed for card insertion players
 
 
+visual studio 2026 编写。
+compilation by visual studio 2026.
+
+
 批量操作文件，批量改名（主要是增加和删除序号）和批量按顺序移动，支持自定义C#代码。针对插卡播放器。
 
 肯定有大量代码是其他人写的，我拿来修改或者直接用，整合成这个软件。如果有你曾经分享过的代码也不算意外。
