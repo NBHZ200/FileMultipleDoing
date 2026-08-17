@@ -4,6 +4,7 @@ This program is designed for card insertion players
 
 
 visual studio 2026 编写。
+
 compilation by visual studio 2026.
 
 
