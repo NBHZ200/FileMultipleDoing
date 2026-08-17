@@ -48,7 +48,7 @@
             textInputFolder.Name = "textInputFolder";
             textInputFolder.Size = new Size(714, 27);
             textInputFolder.TabIndex = 1;
-            textInputFolder.Text = "F:\\源文件夹";
+            textInputFolder.Text = "D:\\源文件夹";
             textInputFolder.TextAlign = HorizontalAlignment.Center;
             // 
             // labelInputFolder
@@ -66,7 +66,7 @@
             textOutputFolder.Name = "textOutputFolder";
             textOutputFolder.Size = new Size(714, 27);
             textOutputFolder.TabIndex = 3;
-            textOutputFolder.Text = "F:\\输出文件夹";
+            textOutputFolder.Text = "D:\\输出文件夹";
             textOutputFolder.TextAlign = HorizontalAlignment.Center;
             // 
             // btnStartCopy
