@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "EhAmMhp1faI=",
+  "success": true,
+  "projectFilePath": "E:\\Programs\\Projects\\crossRescue\\vs项目\\FileMultipleDoing\\FileMultipleDoing\\FileMultipleDoing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Go777\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\10.0.1\\microsoft.bcl.asyncinterfaces.10.0.1.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis\\5.6.0\\microsoft.codeanalysis.5.6.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\5.3.0\\microsoft.codeanalysis.analyzers.5.3.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis.common\\5.6.0\\microsoft.codeanalysis.common.5.6.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis.csharp\\5.6.0\\microsoft.codeanalysis.csharp.5.6.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\5.6.0\\microsoft.codeanalysis.csharp.workspaces.5.6.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\5.6.0\\microsoft.codeanalysis.visualbasic.5.6.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis.visualbasic.workspaces\\5.6.0\\microsoft.codeanalysis.visualbasic.workspaces.5.6.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\5.6.0\\microsoft.codeanalysis.workspaces.common.5.6.0.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\system.composition\\10.0.1\\system.composition.10.0.1.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\system.composition.attributedmodel\\10.0.1\\system.composition.attributedmodel.10.0.1.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\system.composition.convention\\10.0.1\\system.composition.convention.10.0.1.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\system.composition.hosting\\10.0.1\\system.composition.hosting.10.0.1.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\system.composition.runtime\\10.0.1\\system.composition.runtime.10.0.1.nupkg.sha512",
+    "C:\\Users\\Go777\\.nuget\\packages\\system.composition.typedparts\\10.0.1\\system.composition.typedparts.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

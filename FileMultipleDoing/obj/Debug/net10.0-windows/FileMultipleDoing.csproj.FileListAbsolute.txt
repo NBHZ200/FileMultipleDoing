@@ -1,0 +1,352 @@
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.exe
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.deps.json
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.runtimeconfig.json
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.GenerateResource.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfoInputs.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfo.cs
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.CoreCompileInputs.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\refint\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.genruntimeconfig.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\ref\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.CopyFilesForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.MultipleDoFileNamesForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.StartMenuForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing1\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.AssemblyReference.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.AssemblyReference.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.CopyFilesForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.StartMenuForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.GenerateResource.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfoInputs.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfo.cs
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.CoreCompileInputs.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\refint\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.exe
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.deps.json
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.runtimeconfig.json
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Humanizer.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMult.4224832B.Up2Date
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.genruntimeconfig.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\ref\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.MultipleDoFileNamesForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.exe
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.deps.json
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.runtimeconfig.json
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Humanizer.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.AssemblyReference.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.CopyFilesForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.MultipleDoFileNamesForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.StartMenuForm.resources
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.GenerateResource.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfoInputs.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfo.cs
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.CoreCompileInputs.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMult.4224832B.Up2Date
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\refint\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.genruntimeconfig.cache
+E:\Programs\Projects\crossRescue\FileMultipleDoing\FileMultipleDoing - 副本\FileMultipleDoing\obj\Debug\net10.0-windows\ref\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.exe
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.deps.json
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.runtimeconfig.json
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Humanizer.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.AssemblyReference.cache
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.CopyFilesForm.resources
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.MultipleDoFileNamesForm.resources
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.StartMenuForm.resources
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.GenerateResource.cache
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfoInputs.cache
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.AssemblyInfo.cs
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.csproj.CoreCompileInputs.cache
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMult.4224832B.Up2Date
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\refint\FileMultipleDoing.dll
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.pdb
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\FileMultipleDoing.genruntimeconfig.cache
+E:\Programs\Projects\crossRescue\vs项目\FileMultipleDoing\FileMultipleDoing\obj\Debug\net10.0-windows\ref\FileMultipleDoing.dll
